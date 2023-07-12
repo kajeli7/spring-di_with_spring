@@ -1,0 +1,2 @@
+- To build: ./gradlew build
+- To run: ./gradlew run
